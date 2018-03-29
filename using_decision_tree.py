@@ -1,4 +1,4 @@
-from sklearn import tree
+from sklearn.tree import tree
 
 
 clf = tree.DecisionTreeClassifier()
